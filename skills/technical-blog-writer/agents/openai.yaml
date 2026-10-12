@@ -1,0 +1,4 @@
+interface:
+  display_name: "技术博客写作"
+  short_description: "从一个技术概念出发，检索资料并确认大纲后撰写有深度的中文技术文章"
+  default_prompt: "使用 $technical-blog-writer 围绕我给出的技术概念检索资料，先与我确认大纲，再生成 Markdown 文章。"

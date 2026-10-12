@@ -1,0 +1,18 @@
+# Local drafting and discussion records
+/docs/
+
+# Local configuration and credentials
+/.codex/
+.env
+.env.*
+!.env.example
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Python cache and local environments
+__pycache__/
+*.pyc
+.venv/
